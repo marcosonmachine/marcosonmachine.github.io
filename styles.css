@@ -27,6 +27,7 @@ body {
     mix-blend-mode: difference; /* Set the desired blend mode */
 }
 .powerline-container {
+  position: relative;
   display: flex;
   background-color: #1e2228;
   padding: 10px;
